@@ -3,11 +3,9 @@ Experiments with various sentence embeddings, word mover distance algorithms, an
 
 Note:  References, installation requirements, and examples are provided in each notebook.
 
-[Semantic Similarity with Universal Sentence Encoder]
-(Semantic_Similarity_with_TF_Hub_Universal_Encoder.ipynb)
+[Semantic Similarity with Universal Sentence Encoder](Semantic_Similarity_with_TF_Hub_Universal_Encoder.ipynb)
 
-[Universal Sentence Encoder Fine Tuning](universal_sentence_encoder_fine_tune.ipynb)  
-*Note: Not compatible with Tensorflow 2*
+[Universal Sentence Encoder Fine Tuning](universal_sentence_encoder_fine_tune.ipynb)  - *Note: Not compatible with Tensorflow 2*
 
 [Sentence Transformers similarity embeddings with clusterin and file I/O support](Sentence_Transformers.ipynb)
 
